@@ -1,0 +1,331 @@
+item_id,item_type,title,fiscal_period,period_start,period_units_p50
+NP101,NEW,Fieldline Performance Neutral Road Running Shoe - Navy,8,2025-09-08,239.52018127710048
+NP101,NEW,Fieldline Performance Neutral Road Running Shoe - Navy,9,2025-09-29,525.4633804751077
+NP101,NEW,Fieldline Performance Neutral Road Running Shoe - Navy,10,2025-11-03,297.20905932221683
+NP101,NEW,Fieldline Performance Neutral Road Running Shoe - Navy,11,2025-12-01,190.6861864483232
+NP101,NEW,Fieldline Performance Neutral Road Running Shoe - Navy,12,2025-12-29,138.49865918694957
+NP101,NEW,Fieldline Performance Neutral Road Running Shoe - Navy,1,2026-02-02,166.21934927593963
+NP102,NEW,UrbanPeak Trail Waterproof Hiking Boot - Burgundy,8,2025-09-08,68.60583441974836
+NP102,NEW,UrbanPeak Trail Waterproof Hiking Boot - Burgundy,9,2025-09-29,302.1873521834128
+NP102,NEW,UrbanPeak Trail Waterproof Hiking Boot - Burgundy,10,2025-11-03,360.29085329360066
+NP102,NEW,UrbanPeak Trail Waterproof Hiking Boot - Burgundy,11,2025-12-01,333.6334271017448
+NP102,NEW,UrbanPeak Trail Waterproof Hiking Boot - Burgundy,12,2025-12-29,187.9777032308854
+NP102,NEW,UrbanPeak Trail Waterproof Hiking Boot - Burgundy,1,2026-02-02,119.72381015519852
+NP103,NEW,Trail&Town Essential High-Rise Yoga Legging - Olive,8,2025-09-08,291.9711316292479
+NP103,NEW,Trail&Town Essential High-Rise Yoga Legging - Olive,9,2025-09-29,632.2866178859604
+NP103,NEW,Trail&Town Essential High-Rise Yoga Legging - Olive,10,2025-11-03,181.91095669512896
+NP103,NEW,Trail&Town Essential High-Rise Yoga Legging - Olive,11,2025-12-01,132.2338006481006
+NP103,NEW,Trail&Town Essential High-Rise Yoga Legging - Olive,12,2025-12-29,97.04565311852755
+NP103,NEW,Trail&Town Essential High-Rise Yoga Legging - Olive,1,2026-02-02,53.06162284346065
+NP104,NEW,UrbanPeak Studio 2.5L Rain Jacket - Teal,8,2025-09-08,46.93793279269387
+NP104,NEW,UrbanPeak Studio 2.5L Rain Jacket - Teal,9,2025-09-29,276.16082359652665
+NP104,NEW,UrbanPeak Studio 2.5L Rain Jacket - Teal,10,2025-11-03,156.7168010648593
+NP104,NEW,UrbanPeak Studio 2.5L Rain Jacket - Teal,11,2025-12-01,241.55552325673875
+NP104,NEW,UrbanPeak Studio 2.5L Rain Jacket - Teal,12,2025-12-29,233.99443970491532
+NP104,NEW,UrbanPeak Studio 2.5L Rain Jacket - Teal,1,2026-02-02,96.0207413422279
+NP105,NEW,EverNorth Everyday Cushioned Slide Sandal - Cobalt,8,2025-09-08,142.2292932961284
+NP105,NEW,EverNorth Everyday Cushioned Slide Sandal - Cobalt,9,2025-09-29,359.2945692405616
+NP105,NEW,EverNorth Everyday Cushioned Slide Sandal - Cobalt,10,2025-11-03,210.01424308389124
+NP105,NEW,EverNorth Everyday Cushioned Slide Sandal - Cobalt,11,2025-12-01,74.6807966644644
+NP105,NEW,EverNorth Everyday Cushioned Slide Sandal - Cobalt,12,2025-12-29,105.83853498956519
+NP105,NEW,EverNorth Everyday Cushioned Slide Sandal - Cobalt,1,2026-02-02,38.9510477608781
+P1000,HIST,UrbanPeak Signature Neutral Road Running Shoe - Black,4,2025-05-19,63.18179296760515
+P1000,HIST,UrbanPeak Signature Neutral Road Running Shoe - Black,5,2025-06-02,539.0461652061163
+P1000,HIST,UrbanPeak Signature Neutral Road Running Shoe - Black,6,2025-06-30,453.3146570561828
+P1000,HIST,UrbanPeak Signature Neutral Road Running Shoe - Black,7,2025-08-04,189.4789357481328
+P1000,HIST,UrbanPeak Signature Neutral Road Running Shoe - Black,8,2025-09-01,138.28924050797718
+P1000,HIST,UrbanPeak Signature Neutral Road Running Shoe - Black,9,2025-09-29,212.72592602296223
+P1001,HIST,EverNorth Everyday Neutral Road Running Shoe - Olive,9,2025-10-06,405.94818407783725
+P1001,HIST,EverNorth Everyday Neutral Road Running Shoe - Olive,10,2025-11-03,336.6611871652478
+P1001,HIST,EverNorth Everyday Neutral Road Running Shoe - Olive,11,2025-12-01,399.7398327734399
+P1001,HIST,EverNorth Everyday Neutral Road Running Shoe - Olive,12,2025-12-29,263.88245733277495
+P1001,HIST,EverNorth Everyday Neutral Road Running Shoe - Olive,1,2026-02-02,31.438872972640272
+P1001,HIST,EverNorth Everyday Neutral Road Running Shoe - Olive,2,2026-03-02,110.66318172929196
+P1002,HIST,Trail&Town Everyday Neutral Road Running Shoe - Teal,11,2025-12-01,347.8113626039246
+P1002,HIST,Trail&Town Everyday Neutral Road Running Shoe - Teal,12,2025-12-29,632.9202695617955
+P1002,HIST,Trail&Town Everyday Neutral Road Running Shoe - Teal,1,2026-02-02,209.53408311647772
+P1002,HIST,Trail&Town Everyday Neutral Road Running Shoe - Teal,2,2026-03-02,255.36121829304784
+P1002,HIST,Trail&Town Everyday Neutral Road Running Shoe - Teal,3,2026-03-30,246.87039524955668
+P1002,HIST,Trail&Town Everyday Neutral Road Running Shoe - Teal,4,2026-05-04,119.85952635360559
+P1003,HIST,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,10,2025-11-03,231.11916000779487
+P1003,HIST,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,11,2025-12-01,380.02501546527463
+P1003,HIST,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,12,2025-12-29,300.5579714193334
+P1003,HIST,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,1,2026-02-02,169.42327449641033
+P1003,HIST,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,2,2026-03-02,48.47696218902265
+P1003,HIST,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,3,2026-03-30,101.71402019302732
+P1004,HIST,AstraRun Everyday Neutral Road Running Shoe - Stone,4,2025-05-05,350.5088626803971
+P1004,HIST,AstraRun Everyday Neutral Road Running Shoe - Stone,5,2025-06-02,489.3607370362122
+P1004,HIST,AstraRun Everyday Neutral Road Running Shoe - Stone,6,2025-06-30,219.3127837029932
+P1004,HIST,AstraRun Everyday Neutral Road Running Shoe - Stone,7,2025-08-04,126.13426046686338
+P1004,HIST,AstraRun Everyday Neutral Road Running Shoe - Stone,8,2025-09-01,93.4759207748757
+P1004,HIST,AstraRun Everyday Neutral Road Running Shoe - Stone,9,2025-09-29,134.14468827179195
+P1005,HIST,EverNorth Trail Waterproof Hiking Boot - Stone,9,2025-10-20,63.29904376584532
+P1005,HIST,EverNorth Trail Waterproof Hiking Boot - Stone,10,2025-11-03,168.7301435336399
+P1005,HIST,EverNorth Trail Waterproof Hiking Boot - Stone,11,2025-12-01,368.0234122800338
+P1005,HIST,EverNorth Trail Waterproof Hiking Boot - Stone,12,2025-12-29,379.2008184657392
+P1005,HIST,EverNorth Trail Waterproof Hiking Boot - Stone,1,2026-02-02,299.06203784207725
+P1005,HIST,EverNorth Trail Waterproof Hiking Boot - Stone,2,2026-03-02,54.03876961755096
+P1006,HIST,UrbanPeak Pro Waterproof Hiking Boot - Navy,7,2025-08-25,6.61022212727959
+P1006,HIST,UrbanPeak Pro Waterproof Hiking Boot - Navy,8,2025-09-01,85.7052487793275
+P1006,HIST,UrbanPeak Pro Waterproof Hiking Boot - Navy,9,2025-09-29,307.1392861645862
+P1006,HIST,UrbanPeak Pro Waterproof Hiking Boot - Navy,10,2025-11-03,263.0370057849887
+P1006,HIST,UrbanPeak Pro Waterproof Hiking Boot - Navy,11,2025-12-01,196.14226015461117
+P1006,HIST,UrbanPeak Pro Waterproof Hiking Boot - Navy,12,2025-12-29,198.6861373169726
+P1007,HIST,AstraRun Everyday Waterproof Hiking Boot - Blush,12,2025-01-06,23.416005110179796
+P1007,HIST,AstraRun Everyday Waterproof Hiking Boot - Blush,1,2025-02-03,324.85353962990365
+P1007,HIST,AstraRun Everyday Waterproof Hiking Boot - Blush,2,2025-03-03,419.5195868691198
+P1007,HIST,AstraRun Everyday Waterproof Hiking Boot - Blush,3,2025-03-31,372.5775870101038
+P1007,HIST,AstraRun Everyday Waterproof Hiking Boot - Blush,4,2025-05-05,22.346020902818893
+P1007,HIST,AstraRun Everyday Waterproof Hiking Boot - Blush,5,2025-06-02,269.0183140182572
+P1008,HIST,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,4,2025-05-05,225.11687144050734
+P1008,HIST,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,5,2025-06-02,289.8885769008623
+P1008,HIST,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,6,2025-06-30,354.8983884979076
+P1008,HIST,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,7,2025-08-04,383.2168234797463
+P1008,HIST,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,8,2025-09-01,101.78126815184827
+P1008,HIST,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,9,2025-09-29,77.46431148052405
+P1009,HIST,UrbanPeak Signature Waterproof Hiking Boot - Blush,1,2025-02-17,81.14447368269202
+P1009,HIST,UrbanPeak Signature Waterproof Hiking Boot - Blush,2,2025-03-03,72.21908231981992
+P1009,HIST,UrbanPeak Signature Waterproof Hiking Boot - Blush,3,2025-03-31,409.709118212711
+P1009,HIST,UrbanPeak Signature Waterproof Hiking Boot - Blush,4,2025-05-05,372.2831474924311
+P1009,HIST,UrbanPeak Signature Waterproof Hiking Boot - Blush,5,2025-06-02,193.8031490663181
+P1009,HIST,UrbanPeak Signature Waterproof Hiking Boot - Blush,6,2025-06-30,164.06457344617667
+P1010,HIST,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,12,2025-01-20,146.00262388658712
+P1010,HIST,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,1,2025-02-03,647.5325298532096
+P1010,HIST,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,2,2025-03-03,287.1125002301619
+P1010,HIST,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,3,2025-03-31,193.12797176528346
+P1010,HIST,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,4,2025-05-05,47.84330093738454
+P1010,HIST,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,5,2025-06-02,34.244423295037464
+P1011,HIST,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,6,2025-07-14,193.7033695240716
+P1011,HIST,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,7,2025-08-04,656.9778858230978
+P1011,HIST,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,8,2025-09-01,322.12979791894685
+P1011,HIST,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,9,2025-09-29,85.71937273052436
+P1011,HIST,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,10,2025-11-03,126.24034273115541
+P1011,HIST,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,11,2025-12-01,99.11074099259426
+P1012,HIST,Trail&Town Pro High-Rise Yoga Legging - Burgundy,8,2025-09-22,123.54676225292846
+P1012,HIST,Trail&Town Pro High-Rise Yoga Legging - Burgundy,9,2025-09-29,601.3638823842093
+P1012,HIST,Trail&Town Pro High-Rise Yoga Legging - Burgundy,10,2025-11-03,272.9136994234329
+P1012,HIST,Trail&Town Pro High-Rise Yoga Legging - Burgundy,11,2025-12-01,82.6908942070828
+P1012,HIST,Trail&Town Pro High-Rise Yoga Legging - Burgundy,12,2025-12-29,202.07208202022179
+P1012,HIST,Trail&Town Pro High-Rise Yoga Legging - Burgundy,1,2026-02-02,34.44593723017147
+P1013,HIST,Trail&Town Performance High-Rise Yoga Legging - Maroon,7,2025-08-25,98.98852109098294
+P1013,HIST,Trail&Town Performance High-Rise Yoga Legging - Maroon,8,2025-09-01,503.2092437313233
+P1013,HIST,Trail&Town Performance High-Rise Yoga Legging - Maroon,9,2025-09-29,455.3541137673542
+P1013,HIST,Trail&Town Performance High-Rise Yoga Legging - Maroon,10,2025-11-03,146.26972984472158
+P1013,HIST,Trail&Town Performance High-Rise Yoga Legging - Maroon,11,2025-12-01,200.9311194185823
+P1013,HIST,Trail&Town Performance High-Rise Yoga Legging - Maroon,12,2025-12-29,8.176422185288674
+P1014,HIST,CivicWorks City High-Rise Yoga Legging - Charcoal,4,2025-05-12,301.94341418218977
+P1014,HIST,CivicWorks City High-Rise Yoga Legging - Charcoal,5,2025-06-02,312.6376447005646
+P1014,HIST,CivicWorks City High-Rise Yoga Legging - Charcoal,6,2025-06-30,240.3678285856231
+P1014,HIST,CivicWorks City High-Rise Yoga Legging - Charcoal,7,2025-08-04,10.884635115016069
+P1014,HIST,CivicWorks City High-Rise Yoga Legging - Charcoal,8,2025-09-01,82.56874897426951
+P1014,HIST,CivicWorks City High-Rise Yoga Legging - Charcoal,9,2025-09-29,31.860070328903472
+P1015,HIST,Trail&Town Everyday Crewneck Tee - Sand/Navy,4,2025-05-12,121.13687490512085
+P1015,HIST,Trail&Town Everyday Crewneck Tee - Sand/Navy,5,2025-06-02,234.82353430847783
+P1015,HIST,Trail&Town Everyday Crewneck Tee - Sand/Navy,6,2025-06-30,217.1883735825515
+P1015,HIST,Trail&Town Everyday Crewneck Tee - Sand/Navy,7,2025-08-04,107.35072424264783
+P1015,HIST,Trail&Town Everyday Crewneck Tee - Sand/Navy,8,2025-09-01,126.87205850933736
+P1015,HIST,Trail&Town Everyday Crewneck Tee - Sand/Navy,9,2025-09-29,105.97594860977404
+P1016,HIST,Fieldline Everyday Crewneck Tee - Olive,10,2025-11-24,15.54653841898952
+P1016,HIST,Fieldline Everyday Crewneck Tee - Olive,11,2025-12-01,143.91949723442332
+P1016,HIST,Fieldline Everyday Crewneck Tee - Olive,12,2025-12-29,251.83397655696035
+P1016,HIST,Fieldline Everyday Crewneck Tee - Olive,1,2026-02-02,227.0996083253573
+P1016,HIST,Fieldline Everyday Crewneck Tee - Olive,2,2026-03-02,192.89804739073725
+P1016,HIST,Fieldline Everyday Crewneck Tee - Olive,3,2026-03-30,117.01281485641796
+P1017,HIST,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,9,2025-10-06,78.44138976622224
+P1017,HIST,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,10,2025-11-03,156.55669684114923
+P1017,HIST,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,11,2025-12-01,156.807122466169
+P1017,HIST,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,12,2025-12-29,256.8261955262558
+P1017,HIST,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,1,2026-02-02,214.27745086594635
+P1017,HIST,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,2,2026-03-02,70.61495320110421
+P1018,HIST,NordVale Performance Crewneck Tee - Teal,7,2025-08-04,88.66233318706544
+P1018,HIST,NordVale Performance Crewneck Tee - Teal,8,2025-09-01,195.0970769989036
+P1018,HIST,NordVale Performance Crewneck Tee - Teal,9,2025-09-29,197.50730052412888
+P1018,HIST,NordVale Performance Crewneck Tee - Teal,10,2025-11-03,91.04818418075294
+P1018,HIST,NordVale Performance Crewneck Tee - Teal,11,2025-12-01,210.35294257788672
+P1018,HIST,NordVale Performance Crewneck Tee - Teal,12,2025-12-29,112.29252571135224
+P1019,HIST,CivicWorks Essential Crewneck Tee - Sand,1,2025-02-03,109.24492938522828
+P1019,HIST,CivicWorks Essential Crewneck Tee - Sand,2,2025-03-03,89.31162105836754
+P1019,HIST,CivicWorks Essential Crewneck Tee - Sand,3,2025-03-31,328.39009045398177
+P1019,HIST,CivicWorks Essential Crewneck Tee - Sand,4,2025-05-05,163.2867220716065
+P1019,HIST,CivicWorks Essential Crewneck Tee - Sand,5,2025-06-02,64.0022102539957
+P1019,HIST,CivicWorks Essential Crewneck Tee - Sand,6,2025-06-30,204.2339551466523
+P1020,HIST,Fieldline Performance Fleece Hoodie - Olive,12,2025-01-20,0.002075864684570913
+P1020,HIST,Fieldline Performance Fleece Hoodie - Olive,1,2025-02-03,86.10157882492447
+P1020,HIST,Fieldline Performance Fleece Hoodie - Olive,2,2025-03-03,51.651576331550544
+P1020,HIST,Fieldline Performance Fleece Hoodie - Olive,3,2025-03-31,265.37043794179
+P1020,HIST,Fieldline Performance Fleece Hoodie - Olive,4,2025-05-05,230.36811827980807
+P1020,HIST,Fieldline Performance Fleece Hoodie - Olive,5,2025-06-02,204.2588434077305
+P1021,HIST,NordVale Signature Fleece Hoodie - Charcoal/Blush,10,2025-11-17,58.68122845055475
+P1021,HIST,NordVale Signature Fleece Hoodie - Charcoal/Blush,11,2025-12-01,38.5092017783188
+P1021,HIST,NordVale Signature Fleece Hoodie - Charcoal/Blush,12,2025-12-29,304.60840158200017
+P1021,HIST,NordVale Signature Fleece Hoodie - Charcoal/Blush,1,2026-02-02,218.10104022830836
+P1021,HIST,NordVale Signature Fleece Hoodie - Charcoal/Blush,2,2026-03-02,282.05501716401216
+P1021,HIST,NordVale Signature Fleece Hoodie - Charcoal/Blush,3,2026-03-30,219.06851299554987
+P1022,HIST,AstraRun Everyday Fleece Hoodie - Cobalt,12,2025-01-27,0.0007956149832146346
+P1022,HIST,AstraRun Everyday Fleece Hoodie - Cobalt,1,2025-02-03,110.23618306070756
+P1022,HIST,AstraRun Everyday Fleece Hoodie - Cobalt,2,2025-03-03,190.87082059439075
+P1022,HIST,AstraRun Everyday Fleece Hoodie - Cobalt,3,2025-03-31,330.4935484249505
+P1022,HIST,AstraRun Everyday Fleece Hoodie - Cobalt,4,2025-05-05,178.95374151281473
+P1022,HIST,AstraRun Everyday Fleece Hoodie - Cobalt,5,2025-06-02,188.73796665847837
+P1023,HIST,UrbanPeak City Fleece Hoodie - Burgundy,5,2025-06-16,28.817053265764656
+P1023,HIST,UrbanPeak City Fleece Hoodie - Burgundy,6,2025-06-30,197.0317131596023
+P1023,HIST,UrbanPeak City Fleece Hoodie - Burgundy,7,2025-08-04,127.26855359352263
+P1023,HIST,UrbanPeak City Fleece Hoodie - Burgundy,8,2025-09-01,246.12684134916123
+P1023,HIST,UrbanPeak City Fleece Hoodie - Burgundy,9,2025-09-29,355.41798522425114
+P1023,HIST,UrbanPeak City Fleece Hoodie - Burgundy,10,2025-11-03,139.6730550720185
+P1024,HIST,AstraRun Essential Fleece Hoodie - Maroon,12,2025-01-06,32.94444162955102
+P1024,HIST,AstraRun Essential Fleece Hoodie - Maroon,1,2025-02-03,184.28106548423074
+P1024,HIST,AstraRun Essential Fleece Hoodie - Maroon,2,2025-03-03,233.9922262710668
+P1024,HIST,AstraRun Essential Fleece Hoodie - Maroon,3,2025-03-31,339.12543417605787
+P1024,HIST,AstraRun Essential Fleece Hoodie - Maroon,4,2025-05-05,169.34406311112542
+P1024,HIST,AstraRun Essential Fleece Hoodie - Maroon,5,2025-06-02,61.464134348864505
+P1025,HIST,NordVale Essential 2.5L Rain Jacket - Burgundy,12,2024-12-30,174.78448731904123
+P1025,HIST,NordVale Essential 2.5L Rain Jacket - Burgundy,1,2025-02-03,215.393581533849
+P1025,HIST,NordVale Essential 2.5L Rain Jacket - Burgundy,2,2025-03-03,182.81952209014162
+P1025,HIST,NordVale Essential 2.5L Rain Jacket - Burgundy,3,2025-03-31,208.80264746487387
+P1025,HIST,NordVale Essential 2.5L Rain Jacket - Burgundy,4,2025-05-05,141.65722694075623
+P1025,HIST,NordVale Essential 2.5L Rain Jacket - Burgundy,5,2025-06-02,123.14935355713652
+P1026,HIST,NordVale Trail 2.5L Rain Jacket - Maroon,4,2025-05-05,18.16208775829201
+P1026,HIST,NordVale Trail 2.5L Rain Jacket - Maroon,5,2025-06-02,210.4627550511222
+P1026,HIST,NordVale Trail 2.5L Rain Jacket - Maroon,6,2025-06-30,216.93743275061462
+P1026,HIST,NordVale Trail 2.5L Rain Jacket - Maroon,7,2025-08-04,186.54342167128195
+P1026,HIST,NordVale Trail 2.5L Rain Jacket - Maroon,8,2025-09-01,205.42851763042543
+P1026,HIST,NordVale Trail 2.5L Rain Jacket - Maroon,9,2025-09-29,159.2561213869899
+P1027,HIST,NordVale Studio 2.5L Rain Jacket - Navy,2,2025-03-17,53.05839096047019
+P1027,HIST,NordVale Studio 2.5L Rain Jacket - Navy,3,2025-03-31,274.68867756992046
+P1027,HIST,NordVale Studio 2.5L Rain Jacket - Navy,4,2025-05-05,119.14137425444575
+P1027,HIST,NordVale Studio 2.5L Rain Jacket - Navy,5,2025-06-02,349.13737884676317
+P1027,HIST,NordVale Studio 2.5L Rain Jacket - Navy,6,2025-06-30,309.3183560401875
+P1027,HIST,NordVale Studio 2.5L Rain Jacket - Navy,7,2025-08-04,32.70892908357779
+P1028,HIST,CivicWorks Pro 2.5L Rain Jacket - Forest,3,2025-04-14,122.01506664189101
+P1028,HIST,CivicWorks Pro 2.5L Rain Jacket - Forest,4,2025-05-05,165.60622681373331
+P1028,HIST,CivicWorks Pro 2.5L Rain Jacket - Forest,5,2025-06-02,176.75661765155644
+P1028,HIST,CivicWorks Pro 2.5L Rain Jacket - Forest,6,2025-06-30,257.08352577905305
+P1028,HIST,CivicWorks Pro 2.5L Rain Jacket - Forest,7,2025-08-04,236.28177055657036
+P1028,HIST,CivicWorks Pro 2.5L Rain Jacket - Forest,8,2025-09-01,90.82610088883375
+P1029,HIST,AstraRun Signature 2.5L Rain Jacket - Olive,1,2025-02-24,67.77324492684792
+P1029,HIST,AstraRun Signature 2.5L Rain Jacket - Olive,2,2025-03-03,136.52613716905554
+P1029,HIST,AstraRun Signature 2.5L Rain Jacket - Olive,3,2025-03-31,191.39367370625683
+P1029,HIST,AstraRun Signature 2.5L Rain Jacket - Olive,4,2025-05-05,174.96463655247996
+P1029,HIST,AstraRun Signature 2.5L Rain Jacket - Olive,5,2025-06-02,298.6263911164713
+P1029,HIST,AstraRun Signature 2.5L Rain Jacket - Olive,6,2025-06-30,236.3568977950752
+P1030,HIST,EverNorth Trail Stretch Denim Jean - Burgundy,6,2025-07-21,117.48114654765789
+P1030,HIST,EverNorth Trail Stretch Denim Jean - Burgundy,7,2025-08-04,111.4074367775012
+P1030,HIST,EverNorth Trail Stretch Denim Jean - Burgundy,8,2025-09-01,144.3477082568299
+P1030,HIST,EverNorth Trail Stretch Denim Jean - Burgundy,9,2025-09-29,168.71230026163818
+P1030,HIST,EverNorth Trail Stretch Denim Jean - Burgundy,10,2025-11-03,207.2446925130742
+P1030,HIST,EverNorth Trail Stretch Denim Jean - Burgundy,11,2025-12-01,200.06578289903533
+P1031,HIST,NordVale Performance Stretch Denim Jean - Charcoal,2,2025-03-03,238.21087434909813
+P1031,HIST,NordVale Performance Stretch Denim Jean - Charcoal,3,2025-03-31,118.66175493520277
+P1031,HIST,NordVale Performance Stretch Denim Jean - Charcoal,4,2025-05-05,176.19325082925238
+P1031,HIST,NordVale Performance Stretch Denim Jean - Charcoal,5,2025-06-02,188.94127408394965
+P1031,HIST,NordVale Performance Stretch Denim Jean - Charcoal,6,2025-06-30,253.05510194805973
+P1031,HIST,NordVale Performance Stretch Denim Jean - Charcoal,7,2025-08-04,85.8722111362871
+P1032,HIST,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,8,2025-09-22,35.84233039652709
+P1032,HIST,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,9,2025-09-29,172.19004629610222
+P1032,HIST,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,10,2025-11-03,139.96083762021303
+P1032,HIST,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,11,2025-12-01,132.82509659075046
+P1032,HIST,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,12,2025-12-29,230.12594885587762
+P1032,HIST,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,1,2026-02-02,140.55939277401933
+P1033,HIST,NordVale Essential Stretch Denim Jean - Olive,6,2025-07-21,97.46401985979222
+P1033,HIST,NordVale Essential Stretch Denim Jean - Olive,7,2025-08-04,168.04948012415636
+P1033,HIST,NordVale Essential Stretch Denim Jean - Olive,8,2025-09-01,147.50679177044708
+P1033,HIST,NordVale Essential Stretch Denim Jean - Olive,9,2025-09-29,292.8170595033456
+P1033,HIST,NordVale Essential Stretch Denim Jean - Olive,10,2025-11-03,76.11856889618507
+P1033,HIST,NordVale Essential Stretch Denim Jean - Olive,11,2025-12-01,134.700477716593
+P1034,HIST,AstraRun Performance Stretch Denim Jean - White,2,2025-03-03,94.98966744194928
+P1034,HIST,AstraRun Performance Stretch Denim Jean - White,3,2025-03-31,163.61625255358405
+P1034,HIST,AstraRun Performance Stretch Denim Jean - White,4,2025-05-05,159.82031530964193
+P1034,HIST,AstraRun Performance Stretch Denim Jean - White,5,2025-06-02,107.09155151721444
+P1034,HIST,AstraRun Performance Stretch Denim Jean - White,6,2025-06-30,228.92004976888379
+P1034,HIST,AstraRun Performance Stretch Denim Jean - White,7,2025-08-04,93.90663660322376
+P1035,HIST,Trail&Town Studio Slim Chino Pant - Rust,6,2025-07-14,171.74835629683278
+P1035,HIST,Trail&Town Studio Slim Chino Pant - Rust,7,2025-08-04,106.2836498628609
+P1035,HIST,Trail&Town Studio Slim Chino Pant - Rust,8,2025-09-01,166.4157339273132
+P1035,HIST,Trail&Town Studio Slim Chino Pant - Rust,9,2025-09-29,195.5493337140367
+P1035,HIST,Trail&Town Studio Slim Chino Pant - Rust,10,2025-11-03,112.2087570468914
+P1035,HIST,Trail&Town Studio Slim Chino Pant - Rust,11,2025-12-01,132.22591850605227
+P1036,HIST,UrbanPeak Studio Slim Chino Pant - Charcoal,7,2025-08-18,75.14771901498554
+P1036,HIST,UrbanPeak Studio Slim Chino Pant - Charcoal,8,2025-09-01,143.5437400544711
+P1036,HIST,UrbanPeak Studio Slim Chino Pant - Charcoal,9,2025-09-29,232.7443940857247
+P1036,HIST,UrbanPeak Studio Slim Chino Pant - Charcoal,10,2025-11-03,208.31440742530378
+P1036,HIST,UrbanPeak Studio Slim Chino Pant - Charcoal,11,2025-12-01,66.56594282988516
+P1036,HIST,UrbanPeak Studio Slim Chino Pant - Charcoal,12,2025-12-29,213.72292933845284
+P1037,HIST,AstraRun Performance Slim Chino Pant - Sand/Olive,11,2025-12-01,258.1596531455581
+P1037,HIST,AstraRun Performance Slim Chino Pant - Sand/Olive,12,2025-12-29,179.16723419873284
+P1037,HIST,AstraRun Performance Slim Chino Pant - Sand/Olive,1,2026-02-02,200.2048373039543
+P1037,HIST,AstraRun Performance Slim Chino Pant - Sand/Olive,2,2026-03-02,126.37065085224394
+P1037,HIST,AstraRun Performance Slim Chino Pant - Sand/Olive,3,2026-03-30,171.2253807990617
+P1037,HIST,AstraRun Performance Slim Chino Pant - Sand/Olive,4,2026-05-04,174.46830023295195
+P1038,HIST,Fieldline Signature Slim Chino Pant - Tan,6,2025-07-21,14.00071782162919
+P1038,HIST,Fieldline Signature Slim Chino Pant - Tan,7,2025-08-04,197.41381129556422
+P1038,HIST,Fieldline Signature Slim Chino Pant - Tan,8,2025-09-01,135.2873216107114
+P1038,HIST,Fieldline Signature Slim Chino Pant - Tan,9,2025-09-29,175.15608848886367
+P1038,HIST,Fieldline Signature Slim Chino Pant - Tan,10,2025-11-03,146.85437370200162
+P1038,HIST,Fieldline Signature Slim Chino Pant - Tan,11,2025-12-01,212.23150554728645
+P1039,HIST,NordVale Performance Slim Chino Pant - Teal,9,2025-10-20,100.41931593063663
+P1039,HIST,NordVale Performance Slim Chino Pant - Teal,10,2025-11-03,138.42381218357355
+P1039,HIST,NordVale Performance Slim Chino Pant - Teal,11,2025-12-01,100.8428531915374
+P1039,HIST,NordVale Performance Slim Chino Pant - Teal,12,2025-12-29,171.62536810422665
+P1039,HIST,NordVale Performance Slim Chino Pant - Teal,1,2026-02-02,49.27885747639975
+P1039,HIST,NordVale Performance Slim Chino Pant - Teal,2,2026-03-02,116.40989918142888
+P1040,HIST,Coastline Performance Lightweight Insulated Jacket - Maroon,2,2025-03-24,0.0010595132217774484
+P1040,HIST,Coastline Performance Lightweight Insulated Jacket - Maroon,3,2025-03-31,60.85762952852683
+P1040,HIST,Coastline Performance Lightweight Insulated Jacket - Maroon,4,2025-05-05,119.26312355347173
+P1040,HIST,Coastline Performance Lightweight Insulated Jacket - Maroon,5,2025-06-02,349.8408238501001
+P1040,HIST,Coastline Performance Lightweight Insulated Jacket - Maroon,6,2025-06-30,324.7310324921539
+P1040,HIST,Coastline Performance Lightweight Insulated Jacket - Maroon,7,2025-08-04,245.1651386956683
+P1041,HIST,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,2,2025-03-10,21.700786942273336
+P1041,HIST,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,3,2025-03-31,144.64657094352452
+P1041,HIST,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,4,2025-05-05,152.33306407659973
+P1041,HIST,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,5,2025-06-02,250.29879636319026
+P1041,HIST,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,6,2025-06-30,275.50599054530556
+P1041,HIST,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,7,2025-08-04,103.92528148230937
+P1042,HIST,Trail&Town Everyday Lightweight Insulated Jacket - Forest,1,2025-02-24,0.00143237264022946
+P1042,HIST,Trail&Town Everyday Lightweight Insulated Jacket - Forest,2,2025-03-03,114.80990558280399
+P1042,HIST,Trail&Town Everyday Lightweight Insulated Jacket - Forest,3,2025-03-31,187.07544268945895
+P1042,HIST,Trail&Town Everyday Lightweight Insulated Jacket - Forest,4,2025-05-05,153.08748321846232
+P1042,HIST,Trail&Town Everyday Lightweight Insulated Jacket - Forest,5,2025-06-02,341.6485584893714
+P1042,HIST,Trail&Town Everyday Lightweight Insulated Jacket - Forest,6,2025-06-30,268.3029506365686
+P1043,HIST,NordVale Signature Lightweight Insulated Jacket - Charcoal,11,2025-12-22,0.0009423234730932599
+P1043,HIST,NordVale Signature Lightweight Insulated Jacket - Charcoal,12,2025-12-29,4.629138622321373
+P1043,HIST,NordVale Signature Lightweight Insulated Jacket - Charcoal,1,2026-02-02,91.71803709482859
+P1043,HIST,NordVale Signature Lightweight Insulated Jacket - Charcoal,2,2026-03-02,187.90816822272092
+P1043,HIST,NordVale Signature Lightweight Insulated Jacket - Charcoal,3,2026-03-30,325.4441248636932
+P1043,HIST,NordVale Signature Lightweight Insulated Jacket - Charcoal,4,2026-05-04,310.43046182991867
+P1044,HIST,AstraRun Studio Lightweight Insulated Jacket - Forest,4,2025-05-19,57.524311665116436
+P1044,HIST,AstraRun Studio Lightweight Insulated Jacket - Forest,5,2025-06-02,43.04683863707601
+P1044,HIST,AstraRun Studio Lightweight Insulated Jacket - Forest,6,2025-06-30,105.34232878149332
+P1044,HIST,AstraRun Studio Lightweight Insulated Jacket - Forest,7,2025-08-04,225.20079673135763
+P1044,HIST,AstraRun Studio Lightweight Insulated Jacket - Forest,8,2025-09-01,366.7397258852279
+P1044,HIST,AstraRun Studio Lightweight Insulated Jacket - Forest,9,2025-09-29,350.801365091397
+P1045,HIST,AstraRun Essential Cushioned Slide Sandal - Black/Teal,2,2025-03-03,168.53039884276708
+P1045,HIST,AstraRun Essential Cushioned Slide Sandal - Black/Teal,3,2025-03-31,387.69200590762796
+P1045,HIST,AstraRun Essential Cushioned Slide Sandal - Black/Teal,4,2025-05-05,166.32905729445525
+P1045,HIST,AstraRun Essential Cushioned Slide Sandal - Black/Teal,5,2025-06-02,87.01605469602089
+P1045,HIST,AstraRun Essential Cushioned Slide Sandal - Black/Teal,6,2025-06-30,79.81916919717833
+P1045,HIST,AstraRun Essential Cushioned Slide Sandal - Black/Teal,7,2025-08-04,42.84663824751798
+P1046,HIST,Fieldline Performance Cushioned Slide Sandal - Burgundy,12,2025-01-13,89.9185379451704
+P1046,HIST,Fieldline Performance Cushioned Slide Sandal - Burgundy,1,2025-02-03,353.33746582726417
+P1046,HIST,Fieldline Performance Cushioned Slide Sandal - Burgundy,2,2025-03-03,162.8201536302364
+P1046,HIST,Fieldline Performance Cushioned Slide Sandal - Burgundy,3,2025-03-31,177.53257633681287
+P1046,HIST,Fieldline Performance Cushioned Slide Sandal - Burgundy,4,2025-05-05,9.75705818015487
+P1046,HIST,Fieldline Performance Cushioned Slide Sandal - Burgundy,5,2025-06-02,22.769526148655412
+P1047,HIST,Trail&Town Signature Cushioned Slide Sandal - Maroon,9,2025-10-20,58.968843468545714
+P1047,HIST,Trail&Town Signature Cushioned Slide Sandal - Maroon,10,2025-11-03,289.8667408113274
+P1047,HIST,Trail&Town Signature Cushioned Slide Sandal - Maroon,11,2025-12-01,270.7486600112986
+P1047,HIST,Trail&Town Signature Cushioned Slide Sandal - Maroon,12,2025-12-29,131.99701064388296
+P1047,HIST,Trail&Town Signature Cushioned Slide Sandal - Maroon,1,2026-02-02,176.7746050742216
+P1047,HIST,Trail&Town Signature Cushioned Slide Sandal - Maroon,2,2026-03-02,43.88102812683189
+P1048,HIST,UrbanPeak Signature Cushioned Slide Sandal - Black,9,2025-10-13,106.47944381724426
+P1048,HIST,UrbanPeak Signature Cushioned Slide Sandal - Black,10,2025-11-03,265.04641679968563
+P1048,HIST,UrbanPeak Signature Cushioned Slide Sandal - Black,11,2025-12-01,231.8233770718174
+P1048,HIST,UrbanPeak Signature Cushioned Slide Sandal - Black,12,2025-12-29,55.93641565470411
+P1048,HIST,UrbanPeak Signature Cushioned Slide Sandal - Black,1,2026-02-02,107.1945647390649
+P1048,HIST,UrbanPeak Signature Cushioned Slide Sandal - Black,2,2026-03-02,75.01644786511369
+P1049,HIST,CivicWorks Signature Cushioned Slide Sandal - Stone,3,2025-04-07,279.2322481595815
+P1049,HIST,CivicWorks Signature Cushioned Slide Sandal - Stone,4,2025-05-05,368.8122512639583
+P1049,HIST,CivicWorks Signature Cushioned Slide Sandal - Stone,5,2025-06-02,247.85177895684726
+P1049,HIST,CivicWorks Signature Cushioned Slide Sandal - Stone,6,2025-06-30,157.04808002597508
+P1049,HIST,CivicWorks Signature Cushioned Slide Sandal - Stone,7,2025-08-04,80.91703252730555
+P1049,HIST,CivicWorks Signature Cushioned Slide Sandal - Stone,8,2025-09-01,25.069757870021387
