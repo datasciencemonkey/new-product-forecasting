@@ -1,0 +1,1301 @@
+item_id,title,cluster_hint,week_idx,week_start,units_actual,promo_flag,oos_flag
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,0,2025-05-19,13,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,1,2025-05-26,70,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,2,2025-06-02,139,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,3,2025-06-09,93,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,4,2025-06-16,161,1,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,5,2025-06-23,170,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,6,2025-06-30,103,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,7,2025-07-07,129,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,8,2025-07-14,101,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,9,2025-07-21,67,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,10,2025-07-28,64,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,11,2025-08-04,0,0,1
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,12,2025-08-11,47,0,1
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,13,2025-08-18,14,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,14,2025-08-25,73,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,15,2025-09-01,32,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,16,2025-09-08,103,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,17,2025-09-15,0,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,18,2025-09-22,8,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,19,2025-09-29,52,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,20,2025-10-06,0,1,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,21,2025-10-13,40,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,22,2025-10-20,77,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,23,2025-10-27,59,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,24,2025-11-03,56,0,0
+P1000,UrbanPeak Signature Neutral Road Running Shoe - Black,RUN_NEUTRAL,25,2025-11-10,0,1,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,0,2025-10-06,109,0,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,1,2025-10-13,92,0,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,2,2025-10-20,97,0,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,3,2025-10-27,144,0,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,4,2025-11-03,52,0,1
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,5,2025-11-10,46,0,1
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,6,2025-11-17,217,1,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,7,2025-11-24,16,1,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,8,2025-12-01,84,1,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,9,2025-12-08,97,0,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,10,2025-12-15,70,0,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,11,2025-12-22,171,0,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,12,2025-12-29,108,1,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,13,2026-01-05,34,1,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,14,2026-01-12,72,0,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,15,2026-01-19,0,0,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,16,2026-01-26,77,0,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,17,2026-02-02,17,1,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,18,2026-02-09,0,0,1
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,19,2026-02-16,0,0,1
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,20,2026-02-23,9,0,1
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,21,2026-03-02,0,1,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,22,2026-03-09,96,0,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,23,2026-03-16,0,0,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,24,2026-03-23,6,0,0
+P1001,EverNorth Everyday Neutral Road Running Shoe - Olive,RUN_NEUTRAL,25,2026-03-30,7,0,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,0,2025-12-01,69,1,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,1,2025-12-08,72,0,1
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,2,2025-12-15,68,0,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,3,2025-12-22,76,0,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,4,2025-12-29,72,0,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,5,2026-01-05,78,1,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,6,2026-01-12,207,0,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,7,2026-01-19,173,0,1
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,8,2026-01-26,111,0,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,9,2026-02-02,91,0,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,10,2026-02-09,79,0,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,11,2026-02-16,76,1,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,12,2026-02-23,0,0,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,13,2026-03-02,186,0,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,14,2026-03-09,92,0,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,15,2026-03-16,2,1,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,16,2026-03-23,67,1,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,17,2026-03-30,8,0,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,18,2026-04-06,20,0,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,19,2026-04-13,34,0,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,20,2026-04-20,64,0,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,21,2026-04-27,74,0,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,22,2026-05-04,139,1,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,23,2026-05-11,0,0,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,24,2026-05-18,0,0,0
+P1002,Trail&Town Everyday Neutral Road Running Shoe - Teal,RUN_NEUTRAL,25,2026-05-25,16,0,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,0,2025-11-03,51,0,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,1,2025-11-10,41,1,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,2,2025-11-17,50,0,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,3,2025-11-24,103,0,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,4,2025-12-01,129,0,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,5,2025-12-08,56,0,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,6,2025-12-15,70,0,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,7,2025-12-22,83,1,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,8,2025-12-29,60,1,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,9,2026-01-05,91,1,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,10,2026-01-12,60,0,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,11,2026-01-19,55,1,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,12,2026-01-26,83,0,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,13,2026-02-02,42,1,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,14,2026-02-09,44,0,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,15,2026-02-16,30,1,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,16,2026-02-23,73,1,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,17,2026-03-02,0,1,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,18,2026-03-09,6,0,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,19,2026-03-16,0,0,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,20,2026-03-23,44,1,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,21,2026-03-30,43,1,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,22,2026-04-06,0,0,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,23,2026-04-13,50,0,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,24,2026-04-20,0,0,0
+P1003,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,RUN_NEUTRAL,25,2026-04-27,0,0,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,0,2025-05-05,25,0,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,1,2025-05-12,67,0,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,2,2025-05-19,66,0,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,3,2025-05-26,298,1,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,4,2025-06-02,140,1,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,5,2025-06-09,167,0,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,6,2025-06-16,217,1,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,7,2025-06-23,34,0,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,8,2025-06-30,65,0,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,9,2025-07-07,0,0,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,10,2025-07-14,36,0,1
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,11,2025-07-21,137,1,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,12,2025-07-28,9,0,1
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,13,2025-08-04,8,0,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,14,2025-08-11,38,0,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,15,2025-08-18,51,0,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,16,2025-08-25,10,0,1
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,17,2025-09-01,10,0,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,18,2025-09-08,49,0,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,19,2025-09-15,39,0,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,20,2025-09-22,2,0,1
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,21,2025-09-29,24,1,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,22,2025-10-06,14,0,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,23,2025-10-13,23,0,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,24,2025-10-20,92,0,0
+P1004,AstraRun Everyday Neutral Road Running Shoe - Stone,RUN_NEUTRAL,25,2025-10-27,0,1,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,0,2025-10-20,0,1,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,1,2025-10-27,36,0,1
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,2,2025-11-03,0,0,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,3,2025-11-10,86,0,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,4,2025-11-17,35,0,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,5,2025-11-24,55,0,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,6,2025-12-01,59,0,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,7,2025-12-08,130,0,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,8,2025-12-15,62,0,1
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,9,2025-12-22,62,0,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,10,2025-12-29,72,0,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,11,2026-01-05,85,0,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,12,2026-01-12,76,0,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,13,2026-01-19,55,0,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,14,2026-01-26,111,0,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,15,2026-02-02,124,1,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,16,2026-02-09,72,1,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,17,2026-02-16,117,1,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,18,2026-02-23,64,1,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,19,2026-03-02,29,0,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,20,2026-03-09,29,0,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,21,2026-03-16,1,1,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,22,2026-03-23,0,1,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,23,2026-03-30,22,0,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,24,2026-04-06,0,0,0
+P1005,EverNorth Trail Waterproof Hiking Boot - Stone,HIK_WATERPROOF,25,2026-04-13,0,0,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,0,2025-08-25,9,1,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,1,2025-09-01,39,1,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,2,2025-09-08,13,0,1
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,3,2025-09-15,26,0,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,4,2025-09-22,0,0,1
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,5,2025-09-29,41,0,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,6,2025-10-06,25,0,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,7,2025-10-13,60,0,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,8,2025-10-20,70,0,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,9,2025-10-27,74,0,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,10,2025-11-03,113,1,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,11,2025-11-10,100,0,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,12,2025-11-17,31,0,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,13,2025-11-24,75,0,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,14,2025-12-01,92,1,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,15,2025-12-08,47,1,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,16,2025-12-15,67,0,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,17,2025-12-22,22,0,1
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,18,2025-12-29,52,0,1
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,19,2026-01-05,50,0,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,20,2026-01-12,7,0,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,21,2026-01-19,89,1,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,22,2026-01-26,7,0,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,23,2026-02-02,52,0,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,24,2026-02-09,0,1,0
+P1006,UrbanPeak Pro Waterproof Hiking Boot - Navy,HIK_WATERPROOF,25,2026-02-16,9,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,0,2025-01-06,20,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,1,2025-01-13,0,1,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,2,2025-01-20,0,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,3,2025-01-27,2,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,4,2025-02-03,92,1,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,5,2025-02-10,38,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,6,2025-02-17,53,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,7,2025-02-24,130,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,8,2025-03-03,122,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,9,2025-03-10,111,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,10,2025-03-17,107,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,11,2025-03-24,50,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,12,2025-03-31,124,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,13,2025-04-07,113,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,14,2025-04-14,71,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,15,2025-04-21,29,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,16,2025-04-28,79,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,17,2025-05-05,0,1,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,18,2025-05-12,8,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,19,2025-05-19,3,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,20,2025-05-26,16,1,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,21,2025-06-02,58,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,22,2025-06-09,125,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,23,2025-06-16,86,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,24,2025-06-23,45,0,0
+P1007,AstraRun Everyday Waterproof Hiking Boot - Blush,HIK_WATERPROOF,25,2025-06-30,31,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,0,2025-05-05,0,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,1,2025-05-12,43,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,2,2025-05-19,177,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,3,2025-05-26,59,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,4,2025-06-02,30,0,1
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,5,2025-06-09,51,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,6,2025-06-16,110,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,7,2025-06-23,68,0,1
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,8,2025-06-30,70,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,9,2025-07-07,74,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,10,2025-07-14,46,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,11,2025-07-21,20,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,12,2025-07-28,168,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,13,2025-08-04,40,0,1
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,14,2025-08-11,69,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,15,2025-08-18,104,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,16,2025-08-25,105,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,17,2025-09-01,24,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,18,2025-09-08,38,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,19,2025-09-15,0,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,20,2025-09-22,16,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,21,2025-09-29,59,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,22,2025-10-06,18,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,23,2025-10-13,0,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,24,2025-10-20,0,0,0
+P1008,Fieldline Signature Waterproof Hiking Boot - Blush/Rust,HIK_WATERPROOF,25,2025-10-27,0,0,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,0,2025-02-17,64,0,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,1,2025-02-24,28,1,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,2,2025-03-03,24,0,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,3,2025-03-10,0,0,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,4,2025-03-17,38,0,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,5,2025-03-24,0,0,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,6,2025-03-31,61,0,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,7,2025-04-07,112,0,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,8,2025-04-14,39,0,1
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,9,2025-04-21,163,1,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,10,2025-04-28,63,1,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,11,2025-05-05,87,0,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,12,2025-05-12,72,0,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,13,2025-05-19,100,1,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,14,2025-05-26,138,0,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,15,2025-06-02,86,0,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,16,2025-06-09,32,0,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,17,2025-06-16,0,0,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,18,2025-06-23,66,0,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,19,2025-06-30,46,0,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,20,2025-07-07,37,1,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,21,2025-07-14,1,0,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,22,2025-07-21,128,1,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,23,2025-07-28,0,0,0
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,24,2025-08-04,0,0,1
+P1009,UrbanPeak Signature Waterproof Hiking Boot - Blush,HIK_WATERPROOF,25,2025-08-11,0,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,0,2025-01-20,72,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,1,2025-01-27,82,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,2,2025-02-03,182,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,3,2025-02-10,173,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,4,2025-02-17,118,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,5,2025-02-24,139,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,6,2025-03-03,161,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,7,2025-03-10,58,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,8,2025-03-17,118,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,9,2025-03-24,34,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,10,2025-03-31,65,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,11,2025-04-07,35,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,12,2025-04-14,28,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,13,2025-04-21,33,1,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,14,2025-04-28,22,1,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,15,2025-05-05,30,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,16,2025-05-12,0,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,17,2025-05-19,0,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,18,2025-05-26,17,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,19,2025-06-02,0,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,20,2025-06-09,0,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,21,2025-06-16,32,1,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,22,2025-06-23,0,1,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,23,2025-06-30,0,0,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,24,2025-07-07,0,1,0
+P1010,CivicWorks Everyday High-Rise Yoga Legging - White/Navy,LEG_HI_RISE,25,2025-07-14,0,0,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,0,2025-07-14,0,0,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,1,2025-07-21,175,1,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,2,2025-07-28,131,1,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,3,2025-08-04,190,0,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,4,2025-08-11,167,0,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,5,2025-08-18,157,0,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,6,2025-08-25,168,0,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,7,2025-09-01,103,0,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,8,2025-09-08,77,1,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,9,2025-09-15,89,0,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,10,2025-09-22,78,0,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,11,2025-09-29,16,0,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,12,2025-10-06,24,0,1
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,13,2025-10-13,0,1,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,14,2025-10-20,0,1,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,15,2025-10-27,20,0,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,16,2025-11-03,22,0,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,17,2025-11-10,23,0,1
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,18,2025-11-17,12,0,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,19,2025-11-24,71,0,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,20,2025-12-01,0,0,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,21,2025-12-08,32,0,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,22,2025-12-15,18,0,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,23,2025-12-22,62,0,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,24,2025-12-29,7,1,0
+P1011,NordVale Trail High-Rise Yoga Legging - Sand/Maroon,LEG_HI_RISE,25,2026-01-05,17,1,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,0,2025-09-22,101,0,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,1,2025-09-29,88,0,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,2,2025-10-06,142,0,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,3,2025-10-13,70,0,1
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,4,2025-10-20,165,0,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,5,2025-10-27,113,1,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,6,2025-11-03,80,1,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,7,2025-11-10,137,0,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,8,2025-11-17,7,0,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,9,2025-11-24,56,0,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,10,2025-12-01,38,0,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,11,2025-12-08,73,0,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,12,2025-12-15,0,0,1
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,13,2025-12-22,0,0,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,14,2025-12-29,69,1,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,15,2026-01-05,18,0,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,16,2026-01-12,21,0,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,17,2026-01-19,108,1,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,18,2026-01-26,22,1,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,19,2026-02-02,0,0,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,20,2026-02-09,0,0,1
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,21,2026-02-16,44,1,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,22,2026-02-23,0,0,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,23,2026-03-02,0,1,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,24,2026-03-09,0,0,0
+P1012,Trail&Town Pro High-Rise Yoga Legging - Burgundy,LEG_HI_RISE,25,2026-03-16,59,0,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,0,2025-08-25,81,0,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,1,2025-09-01,21,1,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,2,2025-09-08,135,0,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,3,2025-09-15,64,0,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,4,2025-09-22,211,0,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,5,2025-09-29,90,0,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,6,2025-10-06,160,1,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,7,2025-10-13,64,0,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,8,2025-10-20,60,0,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,9,2025-10-27,87,0,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,10,2025-11-03,12,1,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,11,2025-11-10,32,0,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,12,2025-11-17,41,0,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,13,2025-11-24,78,1,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,14,2025-12-01,82,0,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,15,2025-12-08,99,1,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,16,2025-12-15,25,0,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,17,2025-12-22,24,0,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,18,2025-12-29,0,0,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,19,2026-01-05,0,0,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,20,2026-01-12,0,0,1
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,21,2026-01-19,0,0,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,22,2026-01-26,7,0,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,23,2026-02-02,2,0,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,24,2026-02-09,27,1,0
+P1013,Trail&Town Performance High-Rise Yoga Legging - Maroon,LEG_HI_RISE,25,2026-02-16,0,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,0,2025-05-12,117,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,1,2025-05-19,68,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,2,2025-05-26,103,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,3,2025-06-02,107,1,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,4,2025-06-09,79,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,5,2025-06-16,70,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,6,2025-06-23,0,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,7,2025-06-30,69,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,8,2025-07-07,51,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,9,2025-07-14,53,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,10,2025-07-21,0,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,11,2025-07-28,29,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,12,2025-08-04,9,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,13,2025-08-11,0,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,14,2025-08-18,0,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,15,2025-08-25,0,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,16,2025-09-01,46,0,1
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,17,2025-09-08,43,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,18,2025-09-15,0,1,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,19,2025-09-22,1,0,1
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,20,2025-09-29,21,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,21,2025-10-06,13,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,22,2025-10-13,0,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,23,2025-10-20,0,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,24,2025-10-27,0,0,0
+P1014,CivicWorks City High-Rise Yoga Legging - Charcoal,LEG_HI_RISE,25,2025-11-03,48,1,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,0,2025-05-12,75,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,1,2025-05-19,29,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,2,2025-05-26,0,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,3,2025-06-02,74,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,4,2025-06-09,70,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,5,2025-06-16,86,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,6,2025-06-23,29,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,7,2025-06-30,56,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,8,2025-07-07,36,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,9,2025-07-14,55,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,10,2025-07-21,63,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,11,2025-07-28,11,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,12,2025-08-04,20,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,13,2025-08-11,24,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,14,2025-08-18,23,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,15,2025-08-25,43,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,16,2025-09-01,63,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,17,2025-09-08,0,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,18,2025-09-15,55,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,19,2025-09-22,15,0,1
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,20,2025-09-29,0,0,1
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,21,2025-10-06,16,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,22,2025-10-13,17,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,23,2025-10-20,42,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,24,2025-10-27,34,0,0
+P1015,Trail&Town Everyday Crewneck Tee - Sand/Navy,TEE_CREW,25,2025-11-03,26,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,0,2025-11-24,12,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,1,2025-12-01,90,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,2,2025-12-08,19,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,3,2025-12-15,7,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,4,2025-12-22,48,1,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,5,2025-12-29,32,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,6,2026-01-05,34,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,7,2026-01-12,40,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,8,2026-01-19,33,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,9,2026-01-26,104,1,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,10,2026-02-02,110,1,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,11,2026-02-09,84,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,12,2026-02-16,34,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,13,2026-02-23,12,0,1
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,14,2026-03-02,31,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,15,2026-03-09,31,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,16,2026-03-16,86,1,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,17,2026-03-23,34,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,18,2026-03-30,0,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,19,2026-04-06,12,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,20,2026-04-13,147,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,21,2026-04-20,2,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,22,2026-04-27,0,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,23,2026-05-04,28,0,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,24,2026-05-11,112,1,0
+P1016,Fieldline Everyday Crewneck Tee - Olive,TEE_CREW,25,2026-05-18,24,0,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,0,2025-10-06,49,0,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,1,2025-10-13,0,1,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,2,2025-10-20,0,0,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,3,2025-10-27,34,0,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,4,2025-11-03,18,0,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,5,2025-11-10,60,1,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,6,2025-11-17,12,0,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,7,2025-11-24,68,0,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,8,2025-12-01,58,0,1
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,9,2025-12-08,0,0,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,10,2025-12-15,43,0,1
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,11,2025-12-22,22,0,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,12,2025-12-29,120,1,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,13,2026-01-05,70,0,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,14,2026-01-12,49,0,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,15,2026-01-19,26,0,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,16,2026-01-26,43,1,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,17,2026-02-02,147,1,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,18,2026-02-09,59,1,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,19,2026-02-16,0,0,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,20,2026-02-23,30,0,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,21,2026-03-02,36,0,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,22,2026-03-09,0,0,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,23,2026-03-16,8,0,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,24,2026-03-23,27,0,0
+P1017,UrbanPeak Pro Crewneck Tee - Stone/Charcoal,TEE_CREW,25,2026-03-30,35,0,1
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,0,2025-08-04,53,0,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,1,2025-08-11,23,0,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,2,2025-08-18,11,0,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,3,2025-08-25,0,0,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,4,2025-09-01,82,0,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,5,2025-09-08,27,0,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,6,2025-09-15,16,0,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,7,2025-09-22,72,1,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,8,2025-09-29,60,0,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,9,2025-10-06,46,0,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,10,2025-10-13,70,0,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,11,2025-10-20,31,1,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,12,2025-10-27,13,0,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,13,2025-11-03,26,0,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,14,2025-11-10,42,0,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,15,2025-11-17,6,0,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,16,2025-11-24,4,0,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,17,2025-12-01,4,0,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,18,2025-12-08,56,1,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,19,2025-12-15,103,0,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,20,2025-12-22,91,0,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,21,2025-12-29,2,0,1
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,22,2026-01-05,5,0,1
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,23,2026-01-12,0,0,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,24,2026-01-19,105,1,0
+P1018,NordVale Performance Crewneck Tee - Teal,TEE_CREW,25,2026-01-26,5,0,1
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,0,2025-02-03,38,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,1,2025-02-10,19,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,2,2025-02-17,40,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,3,2025-02-24,12,1,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,4,2025-03-03,44,1,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,5,2025-03-10,11,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,6,2025-03-17,0,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,7,2025-03-24,63,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,8,2025-03-31,79,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,9,2025-04-07,45,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,10,2025-04-14,83,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,11,2025-04-21,61,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,12,2025-04-28,36,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,13,2025-05-05,69,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,14,2025-05-12,27,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,15,2025-05-19,57,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,16,2025-05-26,16,0,1
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,17,2025-06-02,0,1,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,18,2025-06-09,48,1,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,19,2025-06-16,33,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,20,2025-06-23,0,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,21,2025-06-30,56,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,22,2025-07-07,72,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,23,2025-07-14,0,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,24,2025-07-21,38,0,0
+P1019,CivicWorks Essential Crewneck Tee - Sand,TEE_CREW,25,2025-07-28,52,0,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,0,2025-01-20,0,0,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,1,2025-01-27,0,1,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,2,2025-02-03,0,1,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,3,2025-02-10,0,0,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,4,2025-02-17,18,0,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,5,2025-02-24,52,0,1
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,6,2025-03-03,21,1,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,7,2025-03-10,0,0,1
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,8,2025-03-17,0,0,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,9,2025-03-24,30,0,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,10,2025-03-31,23,1,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,11,2025-04-07,96,0,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,12,2025-04-14,74,0,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,13,2025-04-21,24,0,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,14,2025-04-28,88,0,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,15,2025-05-05,41,0,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,16,2025-05-12,51,0,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,17,2025-05-19,52,1,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,18,2025-05-26,115,1,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,19,2025-06-02,69,0,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,20,2025-06-09,56,0,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,21,2025-06-16,81,0,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,22,2025-06-23,45,1,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,23,2025-06-30,19,0,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,24,2025-07-07,29,0,0
+P1020,Fieldline Performance Fleece Hoodie - Olive,HOOD_FLEECE,25,2025-07-14,4,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,0,2025-11-17,0,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,1,2025-11-24,45,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,2,2025-12-01,55,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,3,2025-12-08,0,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,4,2025-12-15,0,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,5,2025-12-22,0,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,6,2025-12-29,0,1,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,7,2026-01-05,58,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,8,2026-01-12,123,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,9,2026-01-19,76,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,10,2026-01-26,108,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,11,2026-02-02,43,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,12,2026-02-09,99,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,13,2026-02-16,44,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,14,2026-02-23,73,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,15,2026-03-02,113,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,16,2026-03-09,110,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,17,2026-03-16,87,1,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,18,2026-03-23,35,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,19,2026-03-30,74,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,20,2026-04-06,84,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,21,2026-04-13,43,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,22,2026-04-20,0,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,23,2026-04-27,27,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,24,2026-05-04,14,0,0
+P1021,NordVale Signature Fleece Hoodie - Charcoal/Blush,HOOD_FLEECE,25,2026-05-11,0,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,0,2025-01-27,0,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,1,2025-02-03,0,0,1
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,2,2025-02-10,29,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,3,2025-02-17,22,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,4,2025-02-24,63,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,5,2025-03-03,0,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,6,2025-03-10,57,1,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,7,2025-03-17,64,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,8,2025-03-24,96,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,9,2025-03-31,31,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,10,2025-04-07,61,0,1
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,11,2025-04-14,96,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,12,2025-04-21,60,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,13,2025-04-28,57,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,14,2025-05-05,101,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,15,2025-05-12,68,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,16,2025-05-19,50,1,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,17,2025-05-26,0,0,1
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,18,2025-06-02,67,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,19,2025-06-09,56,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,20,2025-06-16,68,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,21,2025-06-23,16,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,22,2025-06-30,13,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,23,2025-07-07,0,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,24,2025-07-14,42,0,0
+P1022,AstraRun Everyday Fleece Hoodie - Cobalt,HOOD_FLEECE,25,2025-07-21,8,0,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,0,2025-06-16,29,0,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,1,2025-06-23,0,0,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,2,2025-06-30,0,0,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,3,2025-07-07,55,1,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,4,2025-07-14,44,0,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,5,2025-07-21,80,0,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,6,2025-07-28,22,0,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,7,2025-08-04,12,0,1
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,8,2025-08-11,41,0,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,9,2025-08-18,21,0,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,10,2025-08-25,32,0,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,11,2025-09-01,59,0,1
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,12,2025-09-08,52,0,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,13,2025-09-15,68,0,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,14,2025-09-22,96,1,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,15,2025-09-29,52,0,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,16,2025-10-06,196,1,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,17,2025-10-13,42,1,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,18,2025-10-20,83,0,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,19,2025-10-27,71,0,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,20,2025-11-03,62,0,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,21,2025-11-10,34,0,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,22,2025-11-17,33,1,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,23,2025-11-24,22,1,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,24,2025-12-01,0,0,0
+P1023,UrbanPeak City Fleece Hoodie - Burgundy,HOOD_FLEECE,25,2025-12-08,15,0,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,0,2025-01-06,35,0,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,1,2025-01-13,0,0,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,2,2025-01-20,0,1,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,3,2025-01-27,0,0,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,4,2025-02-03,30,0,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,5,2025-02-10,58,1,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,6,2025-02-17,12,0,1
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,7,2025-02-24,102,0,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,8,2025-03-03,33,0,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,9,2025-03-10,80,0,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,10,2025-03-17,99,1,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,11,2025-03-24,38,0,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,12,2025-03-31,39,0,1
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,13,2025-04-07,48,1,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,14,2025-04-14,81,0,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,15,2025-04-21,83,0,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,16,2025-04-28,90,1,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,17,2025-05-05,97,0,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,18,2025-05-12,20,0,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,19,2025-05-19,1,1,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,20,2025-05-26,75,0,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,21,2025-06-02,0,0,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,22,2025-06-09,42,1,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,23,2025-06-16,39,0,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,24,2025-06-23,0,0,0
+P1024,AstraRun Essential Fleece Hoodie - Maroon,HOOD_FLEECE,25,2025-06-30,0,0,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,0,2024-12-30,0,0,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,1,2025-01-06,14,0,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,2,2025-01-13,43,0,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,3,2025-01-20,68,0,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,4,2025-01-27,91,1,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,5,2025-02-03,0,0,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,6,2025-02-10,136,0,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,7,2025-02-17,50,0,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,8,2025-02-24,49,0,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,9,2025-03-03,97,0,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,10,2025-03-10,72,1,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,11,2025-03-17,33,0,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,12,2025-03-24,0,0,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,13,2025-03-31,102,0,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,14,2025-04-07,1,0,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,15,2025-04-14,20,0,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,16,2025-04-21,0,0,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,17,2025-04-28,62,1,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,18,2025-05-05,0,0,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,19,2025-05-12,107,1,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,20,2025-05-19,25,1,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,21,2025-05-26,0,0,1
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,22,2025-06-02,74,0,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,23,2025-06-09,0,1,0
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,24,2025-06-16,18,0,1
+P1025,NordVale Essential 2.5L Rain Jacket - Burgundy,JKT_RAIN,25,2025-06-23,52,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,0,2025-05-05,0,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,1,2025-05-12,2,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,2,2025-05-19,0,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,3,2025-05-26,11,0,1
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,4,2025-06-02,169,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,5,2025-06-09,0,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,6,2025-06-16,75,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,7,2025-06-23,36,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,8,2025-06-30,26,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,9,2025-07-07,71,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,10,2025-07-14,88,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,11,2025-07-21,15,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,12,2025-07-28,35,1,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,13,2025-08-04,21,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,14,2025-08-11,66,1,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,15,2025-08-18,63,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,16,2025-08-25,51,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,17,2025-09-01,35,0,1
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,18,2025-09-08,58,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,19,2025-09-15,73,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,20,2025-09-22,17,1,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,21,2025-09-29,20,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,22,2025-10-06,74,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,23,2025-10-13,1,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,24,2025-10-20,46,0,0
+P1026,NordVale Trail 2.5L Rain Jacket - Maroon,JKT_RAIN,25,2025-10-27,0,0,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,0,2025-03-17,52,0,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,1,2025-03-24,17,0,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,2,2025-03-31,40,0,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,3,2025-04-07,43,1,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,4,2025-04-14,88,1,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,5,2025-04-21,55,0,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,6,2025-04-28,55,0,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,7,2025-05-05,89,0,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,8,2025-05-12,35,0,1
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,9,2025-05-19,0,0,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,10,2025-05-26,3,0,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,11,2025-06-02,39,1,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,12,2025-06-09,126,0,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,13,2025-06-16,158,0,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,14,2025-06-23,16,0,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,15,2025-06-30,98,1,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,16,2025-07-07,51,0,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,17,2025-07-14,111,0,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,18,2025-07-21,22,1,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,19,2025-07-28,60,0,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,20,2025-08-04,24,0,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,21,2025-08-11,0,0,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,22,2025-08-18,8,0,1
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,23,2025-08-25,0,0,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,24,2025-09-01,45,0,0
+P1027,NordVale Studio 2.5L Rain Jacket - Navy,JKT_RAIN,25,2025-09-08,0,0,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,0,2025-04-14,46,0,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,1,2025-04-21,21,0,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,2,2025-04-28,42,0,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,3,2025-05-05,15,1,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,4,2025-05-12,103,1,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,5,2025-05-19,61,0,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,6,2025-05-26,28,0,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,7,2025-06-02,52,1,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,8,2025-06-09,60,0,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,9,2025-06-16,57,1,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,10,2025-06-23,29,1,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,11,2025-06-30,67,1,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,12,2025-07-07,88,0,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,13,2025-07-14,21,0,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,14,2025-07-21,52,0,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,15,2025-07-28,45,0,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,16,2025-08-04,129,1,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,17,2025-08-11,29,0,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,18,2025-08-18,73,0,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,19,2025-08-25,58,0,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,20,2025-09-01,18,0,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,21,2025-09-08,15,0,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,22,2025-09-15,0,0,1
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,23,2025-09-22,34,0,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,24,2025-09-29,0,0,0
+P1028,CivicWorks Pro 2.5L Rain Jacket - Forest,JKT_RAIN,25,2025-10-06,6,0,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,0,2025-02-24,135,1,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,1,2025-03-03,52,1,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,2,2025-03-10,26,0,1
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,3,2025-03-17,30,0,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,4,2025-03-24,38,1,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,5,2025-03-31,0,0,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,6,2025-04-07,59,0,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,7,2025-04-14,15,0,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,8,2025-04-21,83,0,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,9,2025-04-28,0,0,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,10,2025-05-05,50,1,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,11,2025-05-12,40,0,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,12,2025-05-19,36,1,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,13,2025-05-26,74,0,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,14,2025-06-02,72,0,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,15,2025-06-09,76,0,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,16,2025-06-16,49,0,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,17,2025-06-23,68,0,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,18,2025-06-30,75,0,1
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,19,2025-07-07,71,0,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,20,2025-07-14,8,0,1
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,21,2025-07-21,36,0,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,22,2025-07-28,61,0,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,23,2025-08-04,24,0,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,24,2025-08-11,18,0,0
+P1029,AstraRun Signature 2.5L Rain Jacket - Olive,JKT_RAIN,25,2025-08-18,7,0,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,0,2025-07-21,64,1,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,1,2025-07-28,48,0,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,2,2025-08-04,89,1,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,3,2025-08-11,31,0,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,4,2025-08-18,0,1,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,5,2025-08-25,24,0,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,6,2025-09-01,43,0,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,7,2025-09-08,9,1,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,8,2025-09-15,93,1,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,9,2025-09-22,14,1,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,10,2025-09-29,0,0,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,11,2025-10-06,82,0,1
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,12,2025-10-13,51,1,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,13,2025-10-20,62,0,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,14,2025-10-27,0,0,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,15,2025-11-03,38,0,1
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,16,2025-11-10,38,0,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,17,2025-11-17,70,0,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,18,2025-11-24,59,0,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,19,2025-12-01,19,1,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,20,2025-12-08,63,0,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,21,2025-12-15,149,1,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,22,2025-12-22,19,0,1
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,23,2025-12-29,95,0,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,24,2026-01-05,0,1,0
+P1030,EverNorth Trail Stretch Denim Jean - Burgundy,JNS_STRETCH,25,2026-01-12,27,0,1
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,0,2025-03-03,59,0,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,1,2025-03-10,57,0,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,2,2025-03-17,95,0,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,3,2025-03-24,37,1,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,4,2025-03-31,36,0,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,5,2025-04-07,0,0,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,6,2025-04-14,0,0,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,7,2025-04-21,54,0,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,8,2025-04-28,24,0,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,9,2025-05-05,73,0,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,10,2025-05-12,30,1,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,11,2025-05-19,58,0,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,12,2025-05-26,26,0,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,13,2025-06-02,15,0,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,14,2025-06-09,36,0,1
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,15,2025-06-16,83,1,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,16,2025-06-23,58,1,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,17,2025-06-30,90,1,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,18,2025-07-07,75,0,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,19,2025-07-14,77,0,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,20,2025-07-21,19,0,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,21,2025-07-28,23,1,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,22,2025-08-04,33,0,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,23,2025-08-11,46,0,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,24,2025-08-18,0,1,0
+P1031,NordVale Performance Stretch Denim Jean - Charcoal,JNS_STRETCH,25,2025-08-25,0,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,0,2025-09-22,43,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,1,2025-09-29,46,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,2,2025-10-06,34,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,3,2025-10-13,24,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,4,2025-10-20,28,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,5,2025-10-27,32,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,6,2025-11-03,8,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,7,2025-11-10,32,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,8,2025-11-17,60,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,9,2025-11-24,52,1,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,10,2025-12-01,26,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,11,2025-12-08,35,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,12,2025-12-15,67,1,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,13,2025-12-22,9,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,14,2025-12-29,57,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,15,2026-01-05,53,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,16,2026-01-12,36,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,17,2026-01-19,52,1,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,18,2026-01-26,51,1,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,19,2026-02-02,25,1,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,20,2026-02-09,47,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,21,2026-02-16,35,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,22,2026-02-23,68,1,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,23,2026-03-02,14,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,24,2026-03-09,11,0,0
+P1032,EverNorth City Stretch Denim Jean - Cobalt/Burgundy,JNS_STRETCH,25,2026-03-16,6,0,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,0,2025-07-21,71,0,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,1,2025-07-28,34,0,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,2,2025-08-04,24,0,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,3,2025-08-11,0,0,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,4,2025-08-18,149,1,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,5,2025-08-25,43,0,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,6,2025-09-01,27,0,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,7,2025-09-08,22,0,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,8,2025-09-15,112,1,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,9,2025-09-22,37,1,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,10,2025-09-29,13,1,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,11,2025-10-06,40,1,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,12,2025-10-13,94,0,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,13,2025-10-20,83,0,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,14,2025-10-27,70,1,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,15,2025-11-03,19,0,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,16,2025-11-10,0,0,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,17,2025-11-17,23,0,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,18,2025-11-24,22,0,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,19,2025-12-01,35,0,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,20,2025-12-08,62,0,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,21,2025-12-15,40,1,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,22,2025-12-22,10,0,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,23,2025-12-29,3,0,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,24,2026-01-05,55,0,0
+P1033,NordVale Essential Stretch Denim Jean - Olive,JNS_STRETCH,25,2026-01-12,54,0,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,0,2025-03-03,39,0,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,1,2025-03-10,0,0,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,2,2025-03-17,23,1,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,3,2025-03-24,45,0,1
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,4,2025-03-31,25,0,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,5,2025-04-07,55,0,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,6,2025-04-14,41,0,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,7,2025-04-21,45,0,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,8,2025-04-28,12,0,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,9,2025-05-05,21,0,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,10,2025-05-12,25,0,1
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,11,2025-05-19,79,0,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,12,2025-05-26,28,0,1
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,13,2025-06-02,24,0,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,14,2025-06-09,26,0,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,15,2025-06-16,27,0,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,16,2025-06-23,10,0,1
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,17,2025-06-30,32,0,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,18,2025-07-07,45,1,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,19,2025-07-14,80,1,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,20,2025-07-21,48,0,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,21,2025-07-28,28,0,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,22,2025-08-04,9,0,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,23,2025-08-11,0,0,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,24,2025-08-18,48,1,0
+P1034,AstraRun Performance Stretch Denim Jean - White,JNS_STRETCH,25,2025-08-25,46,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,0,2025-07-14,74,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,1,2025-07-21,45,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,2,2025-07-28,40,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,3,2025-08-04,42,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,4,2025-08-11,69,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,5,2025-08-18,0,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,6,2025-08-25,0,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,7,2025-09-01,0,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,8,2025-09-08,34,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,9,2025-09-15,43,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,10,2025-09-22,99,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,11,2025-09-29,64,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,12,2025-10-06,56,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,13,2025-10-13,55,1,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,14,2025-10-20,30,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,15,2025-10-27,11,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,16,2025-11-03,58,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,17,2025-11-10,38,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,18,2025-11-17,4,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,19,2025-11-24,15,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,20,2025-12-01,3,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,21,2025-12-08,8,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,22,2025-12-15,78,1,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,23,2025-12-22,37,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,24,2025-12-29,50,0,0
+P1035,Trail&Town Studio Slim Chino Pant - Rust,PNT_CHINO,25,2026-01-05,4,0,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,0,2025-08-18,23,0,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,1,2025-08-25,49,0,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,2,2025-09-01,12,1,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,3,2025-09-08,22,0,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,4,2025-09-15,50,0,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,5,2025-09-22,80,1,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,6,2025-09-29,70,1,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,7,2025-10-06,44,1,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,8,2025-10-13,25,0,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,9,2025-10-20,54,0,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,10,2025-10-27,48,0,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,11,2025-11-03,35,0,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,12,2025-11-10,47,0,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,13,2025-11-17,69,1,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,14,2025-11-24,125,1,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,15,2025-12-01,0,0,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,16,2025-12-08,20,0,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,17,2025-12-15,0,0,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,18,2025-12-22,30,0,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,19,2025-12-29,23,0,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,20,2026-01-05,81,0,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,21,2026-01-12,40,0,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,22,2026-01-19,1,0,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,23,2026-01-26,40,0,1
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,24,2026-02-02,0,0,0
+P1036,UrbanPeak Studio Slim Chino Pant - Charcoal,PNT_CHINO,25,2026-02-09,54,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,0,2025-12-01,105,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,1,2025-12-08,61,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,2,2025-12-15,65,1,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,3,2025-12-22,66,1,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,4,2025-12-29,48,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,5,2026-01-05,46,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,6,2026-01-12,0,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,7,2026-01-19,100,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,8,2026-01-26,20,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,9,2026-02-02,73,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,10,2026-02-09,64,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,11,2026-02-16,45,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,12,2026-02-23,48,1,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,13,2026-03-02,26,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,14,2026-03-09,74,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,15,2026-03-16,23,0,1
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,16,2026-03-23,12,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,17,2026-03-30,25,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,18,2026-04-06,33,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,19,2026-04-13,40,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,20,2026-04-20,55,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,21,2026-04-27,22,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,22,2026-05-04,56,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,23,2026-05-11,61,0,1
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,24,2026-05-18,28,0,0
+P1037,AstraRun Performance Slim Chino Pant - Sand/Olive,PNT_CHINO,25,2026-05-25,0,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,0,2025-07-21,0,1,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,1,2025-07-28,18,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,2,2025-08-04,38,0,1
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,3,2025-08-11,59,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,4,2025-08-18,17,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,5,2025-08-25,44,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,6,2025-09-01,37,1,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,7,2025-09-08,6,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,8,2025-09-15,48,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,9,2025-09-22,56,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,10,2025-09-29,9,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,11,2025-10-06,54,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,12,2025-10-13,82,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,13,2025-10-20,0,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,14,2025-10-27,48,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,15,2025-11-03,57,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,16,2025-11-10,70,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,17,2025-11-17,3,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,18,2025-11-24,19,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,19,2025-12-01,53,1,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,20,2025-12-08,54,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,21,2025-12-15,124,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,22,2025-12-22,38,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,23,2025-12-29,88,1,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,24,2026-01-05,37,0,0
+P1038,Fieldline Signature Slim Chino Pant - Tan,PNT_CHINO,25,2026-01-12,17,0,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,0,2025-10-20,89,1,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,1,2025-10-27,58,0,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,2,2025-11-03,75,0,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,3,2025-11-10,11,0,1
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,4,2025-11-17,6,0,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,5,2025-11-24,55,0,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,6,2025-12-01,0,0,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,7,2025-12-08,27,1,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,8,2025-12-15,15,0,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,9,2025-12-22,59,0,1
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,10,2025-12-29,39,0,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,11,2026-01-05,44,0,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,12,2026-01-12,42,1,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,13,2026-01-19,24,1,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,14,2026-01-26,38,0,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,15,2026-02-02,7,0,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,16,2026-02-09,6,0,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,17,2026-02-16,16,1,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,18,2026-02-23,18,0,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,19,2026-03-02,7,0,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,20,2026-03-09,17,0,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,21,2026-03-16,46,0,1
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,22,2026-03-23,12,0,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,23,2026-03-30,35,0,1
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,24,2026-04-06,13,0,0
+P1039,NordVale Performance Slim Chino Pant - Teal,PNT_CHINO,25,2026-04-13,58,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,0,2025-03-24,0,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,1,2025-03-31,31,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,2,2025-04-07,15,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,3,2025-04-14,17,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,4,2025-04-21,0,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,5,2025-04-28,0,1,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,6,2025-05-05,59,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,7,2025-05-12,0,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,8,2025-05-19,13,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,9,2025-05-26,41,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,10,2025-06-02,82,0,1
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,11,2025-06-09,124,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,12,2025-06-16,99,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,13,2025-06-23,60,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,14,2025-06-30,117,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,15,2025-07-07,42,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,16,2025-07-14,55,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,17,2025-07-21,88,1,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,18,2025-07-28,42,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,19,2025-08-04,104,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,20,2025-08-11,87,1,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,21,2025-08-18,39,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,22,2025-08-25,21,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,23,2025-09-01,90,1,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,24,2025-09-08,58,0,0
+P1040,Coastline Performance Lightweight Insulated Jacket - Maroon,JKT_INSUL,25,2025-09-15,20,0,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,0,2025-03-10,0,0,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,1,2025-03-17,13,0,1
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,2,2025-03-24,0,0,1
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,3,2025-03-31,16,0,1
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,4,2025-04-07,6,0,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,5,2025-04-14,45,0,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,6,2025-04-21,7,0,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,7,2025-04-28,69,0,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,8,2025-05-05,29,0,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,9,2025-05-12,0,0,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,10,2025-05-19,27,0,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,11,2025-05-26,81,0,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,12,2025-06-02,67,1,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,13,2025-06-09,39,0,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,14,2025-06-16,60,0,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,15,2025-06-23,89,0,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,16,2025-06-30,58,0,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,17,2025-07-07,54,0,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,18,2025-07-14,21,0,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,19,2025-07-21,102,0,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,20,2025-07-28,35,0,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,21,2025-08-04,95,1,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,22,2025-08-11,1,0,1
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,23,2025-08-18,26,1,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,24,2025-08-25,11,1,0
+P1041,Trail&Town Trail Lightweight Insulated Jacket - Navy/Maroon,JKT_INSUL,25,2025-09-01,67,0,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,0,2025-02-24,0,1,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,1,2025-03-03,30,0,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,2,2025-03-10,70,1,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,3,2025-03-17,11,0,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,4,2025-03-24,0,0,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,5,2025-03-31,0,0,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,6,2025-04-07,0,1,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,7,2025-04-14,76,0,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,8,2025-04-21,66,1,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,9,2025-04-28,75,1,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,10,2025-05-05,16,0,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,11,2025-05-12,0,0,1
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,12,2025-05-19,65,0,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,13,2025-05-26,76,0,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,14,2025-06-02,34,0,1
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,15,2025-06-09,89,1,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,16,2025-06-16,114,0,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,17,2025-06-23,194,1,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,18,2025-06-30,9,0,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,19,2025-07-07,74,0,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,20,2025-07-14,139,0,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,21,2025-07-21,0,1,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,22,2025-07-28,69,1,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,23,2025-08-04,81,0,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,24,2025-08-11,48,0,0
+P1042,Trail&Town Everyday Lightweight Insulated Jacket - Forest,JKT_INSUL,25,2025-08-18,174,1,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,0,2025-12-22,0,0,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,1,2025-12-29,0,1,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,2,2026-01-05,0,1,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,3,2026-01-12,5,0,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,4,2026-01-19,0,1,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,5,2026-01-26,0,0,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,6,2026-02-02,0,0,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,7,2026-02-09,12,1,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,8,2026-02-16,62,0,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,9,2026-02-23,8,0,1
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,10,2026-03-02,21,0,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,11,2026-03-09,8,1,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,12,2026-03-16,84,0,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,13,2026-03-23,70,1,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,14,2026-03-30,70,0,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,15,2026-04-06,60,0,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,16,2026-04-13,56,0,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,17,2026-04-20,76,0,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,18,2026-04-27,23,0,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,19,2026-05-04,79,0,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,20,2026-05-11,124,0,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,21,2026-05-18,181,1,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,22,2026-05-25,20,0,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,23,2026-06-01,63,0,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,24,2026-06-08,61,1,0
+P1043,NordVale Signature Lightweight Insulated Jacket - Charcoal,JKT_INSUL,25,2026-06-15,0,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,0,2025-05-19,8,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,1,2025-05-26,58,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,2,2025-06-02,0,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,3,2025-06-09,18,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,4,2025-06-16,3,1,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,5,2025-06-23,21,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,6,2025-06-30,0,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,7,2025-07-07,23,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,8,2025-07-14,40,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,9,2025-07-21,23,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,10,2025-07-28,17,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,11,2025-08-04,56,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,12,2025-08-11,64,1,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,13,2025-08-18,70,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,14,2025-08-25,55,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,15,2025-09-01,69,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,16,2025-09-08,77,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,17,2025-09-15,31,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,18,2025-09-22,117,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,19,2025-09-29,27,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,20,2025-10-06,89,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,21,2025-10-13,143,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,22,2025-10-20,27,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,23,2025-10-27,154,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,24,2025-11-03,0,0,0
+P1044,AstraRun Studio Lightweight Insulated Jacket - Forest,JKT_INSUL,25,2025-11-10,0,0,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,0,2025-03-03,45,0,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,1,2025-03-10,13,1,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,2,2025-03-17,93,1,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,3,2025-03-24,52,0,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,4,2025-03-31,92,0,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,5,2025-04-07,99,1,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,6,2025-04-14,98,0,1
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,7,2025-04-21,51,0,1
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,8,2025-04-28,64,0,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,9,2025-05-05,56,1,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,10,2025-05-12,35,0,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,11,2025-05-19,95,0,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,12,2025-05-26,3,0,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,13,2025-06-02,35,0,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,14,2025-06-09,32,0,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,15,2025-06-16,0,0,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,16,2025-06-23,22,1,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,17,2025-06-30,43,0,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,18,2025-07-07,3,0,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,19,2025-07-14,15,0,1
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,20,2025-07-21,3,0,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,21,2025-07-28,6,0,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,22,2025-08-04,17,0,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,23,2025-08-11,0,1,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,24,2025-08-18,18,0,0
+P1045,AstraRun Essential Cushioned Slide Sandal - Black/Teal,SDL_CUSH,25,2025-08-25,0,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,0,2025-01-13,47,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,1,2025-01-20,0,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,2,2025-01-27,41,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,3,2025-02-03,45,0,1
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,4,2025-02-10,83,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,5,2025-02-17,96,1,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,6,2025-02-24,124,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,7,2025-03-03,82,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,8,2025-03-10,31,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,9,2025-03-17,4,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,10,2025-03-24,58,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,11,2025-03-31,27,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,12,2025-04-07,59,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,13,2025-04-14,54,1,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,14,2025-04-21,54,1,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,15,2025-04-28,0,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,16,2025-05-05,0,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,17,2025-05-12,0,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,18,2025-05-19,0,1,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,19,2025-05-26,8,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,20,2025-06-02,0,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,21,2025-06-09,22,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,22,2025-06-16,0,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,23,2025-06-23,0,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,24,2025-06-30,16,0,0
+P1046,Fieldline Performance Cushioned Slide Sandal - Burgundy,SDL_CUSH,25,2025-07-07,112,1,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,0,2025-10-20,60,0,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,1,2025-10-27,8,1,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,2,2025-11-03,19,0,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,3,2025-11-10,135,0,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,4,2025-11-17,85,1,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,5,2025-11-24,71,0,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,6,2025-12-01,67,0,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,7,2025-12-08,103,0,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,8,2025-12-15,90,0,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,9,2025-12-22,17,0,1
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,10,2025-12-29,26,0,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,11,2026-01-05,36,0,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,12,2026-01-12,20,0,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,13,2026-01-19,47,1,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,14,2026-01-26,0,0,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,15,2026-02-02,6,1,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,16,2026-02-09,60,0,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,17,2026-02-16,32,0,1
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,18,2026-02-23,57,1,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,19,2026-03-02,24,1,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,20,2026-03-09,30,0,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,21,2026-03-16,0,0,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,22,2026-03-23,0,0,1
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,23,2026-03-30,0,1,0
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,24,2026-04-06,8,0,1
+P1047,Trail&Town Signature Cushioned Slide Sandal - Maroon,SDL_CUSH,25,2026-04-13,26,0,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,0,2025-10-13,29,0,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,1,2025-10-20,28,1,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,2,2025-10-27,52,0,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,3,2025-11-03,90,1,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,4,2025-11-10,35,0,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,5,2025-11-17,38,0,1
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,6,2025-11-24,68,0,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,7,2025-12-01,106,1,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,8,2025-12-08,50,0,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,9,2025-12-15,77,1,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,10,2025-12-22,37,0,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,11,2025-12-29,32,0,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,12,2026-01-05,0,0,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,13,2026-01-12,0,0,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,14,2026-01-19,21,0,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,15,2026-01-26,9,0,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,16,2026-02-02,34,0,1
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,17,2026-02-09,8,0,1
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,18,2026-02-16,55,1,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,19,2026-02-23,0,0,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,20,2026-03-02,25,0,1
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,21,2026-03-09,12,0,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,22,2026-03-16,28,0,0
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,23,2026-03-23,0,0,1
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,24,2026-03-30,0,0,1
+P1048,UrbanPeak Signature Cushioned Slide Sandal - Black,SDL_CUSH,25,2026-04-06,0,0,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,0,2025-04-07,87,0,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,1,2025-04-14,92,0,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,2,2025-04-21,153,0,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,3,2025-04-28,42,0,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,4,2025-05-05,145,0,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,5,2025-05-12,149,0,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,6,2025-05-19,50,0,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,7,2025-05-26,82,0,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,8,2025-06-02,46,0,1
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,9,2025-06-09,77,0,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,10,2025-06-16,37,0,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,11,2025-06-23,54,0,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,12,2025-06-30,1,0,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,13,2025-07-07,75,1,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,14,2025-07-14,41,0,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,15,2025-07-21,53,0,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,16,2025-07-28,0,1,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,17,2025-08-04,43,1,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,18,2025-08-11,0,0,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,19,2025-08-18,51,0,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,20,2025-08-25,0,1,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,21,2025-09-01,0,0,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,22,2025-09-08,17,0,1
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,23,2025-09-15,0,0,0
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,24,2025-09-22,0,0,1
+P1049,CivicWorks Signature Cushioned Slide Sandal - Stone,SDL_CUSH,25,2025-09-29,0,0,1
