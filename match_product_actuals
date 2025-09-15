@@ -1,0 +1,19 @@
+item_id,launch_month,title,units_actual_month,promo_weeks,launch_abs_week,units_actual_6m_target,blend_ratio,min_launch_month,normalized_month,percent_of_6m_target
+P1000,5,UrbanPeak Signature Neutral Road Running Shoe - Black,83,0,21,1615,33.49504697707232,5,0,0.051393188854489166
+P1000,6,UrbanPeak Signature Neutral Road Running Shoe - Black,666,1,21,1615,33.49504697707232,5,1,0.41238390092879257
+P1000,7,UrbanPeak Signature Neutral Road Running Shoe - Black,361,0,21,1615,33.49504697707232,5,2,0.2235294117647059
+P1000,8,UrbanPeak Signature Neutral Road Running Shoe - Black,134,0,21,1615,33.49504697707232,5,3,0.08297213622291022
+P1000,9,UrbanPeak Signature Neutral Road Running Shoe - Black,195,0,21,1615,33.49504697707232,5,4,0.12074303405572756
+P1000,10,UrbanPeak Signature Neutral Road Running Shoe - Black,176,1,21,1615,33.49504697707232,5,5,0.10897832817337462
+P1001,10,EverNorth Everyday Neutral Road Running Shoe - Olive,442,0,41,1621,33.41937602855976,10,0,0.27267119062307216
+P1001,11,EverNorth Everyday Neutral Road Running Shoe - Olive,331,2,41,1621,33.41937602855976,10,1,0.2041949413942011
+P1001,12,EverNorth Everyday Neutral Road Running Shoe - Olive,530,2,41,1621,33.41937602855976,10,2,0.3269586674892042
+P1001,1,EverNorth Everyday Neutral Road Running Shoe - Olive,183,1,41,1621,33.41937602855976,10,3,0.11289327575570636
+P1001,2,EverNorth Everyday Neutral Road Running Shoe - Olive,26,1,41,1621,33.41937602855976,10,4,0.016039481801357187
+P1001,3,EverNorth Everyday Neutral Road Running Shoe - Olive,109,1,41,1621,33.41937602855976,10,5,0.06724244293645898
+P1003,11,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,245,1,45,1264,33.08557699436791,11,0,0.19382911392405064
+P1003,12,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,398,2,45,1264,33.08557699436791,11,1,0.314873417721519
+P1003,1,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,289,2,45,1264,33.08557699436791,11,2,0.2286392405063291
+P1003,2,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,189,3,45,1264,33.08557699436791,11,3,0.1495253164556962
+P1003,3,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,93,3,45,1264,33.08557699436791,11,4,0.07357594936708861
+P1003,4,UrbanPeak Everyday Neutral Road Running Shoe - Burgundy,50,0,45,1264,33.08557699436791,11,5,0.03955696202531646
